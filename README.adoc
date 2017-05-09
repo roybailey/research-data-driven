@@ -1,0 +1,8 @@
+= Data Formats and Code Generation
+
+== Motivation
+
+Multi-module Java project to test out various data formats and their code generators.
+
+* http://json-schema.org/[Json Schema] with http://www.jsonschema2pojo.org/[JsonSchema2pojo]
+* https://avro.apache.org/[Apache Avro]

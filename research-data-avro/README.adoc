@@ -1,0 +1,5 @@
+= AVRO schema domain code generation
+
+== Motivation
+
+Look at using apache avro definition to code generate Java Data Transfer Objects.
